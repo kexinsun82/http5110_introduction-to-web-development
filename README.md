@@ -10,7 +10,7 @@ This course will introduce students to the roles and responsibilities of a Web D
 
 ## Assignments Repo
 After all assignments are graded, I will change the repository to public.  
-[Introduction to Web Development - Assignments Repo](https://github.com/kexinsun82/humber-assignments/tree/f9266c6ae11bc0c4786520275496e935f08af61d/4-introduction%20to%20web%20development%20HTTP5110)
+[Assignments Repo](https://github.com/kexinsun82/humber-assignments.git)
 
 ## Outcomes
 - Monitor the time spent on work using a timesheet.
